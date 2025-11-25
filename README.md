@@ -157,7 +157,7 @@ jupyter notebook Student_Success_Prediction.ipynb
 # Run all cells in order
 ```
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 1. **Feature Engineering**
    - Create interaction features (e.g., lunch type × test prep)
