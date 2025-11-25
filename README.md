@@ -22,7 +22,7 @@ Develop a predictive model to identify at-risk students early in their academic 
 - **Class Distribution:** 55.3% At Risk, 44.7% Success
 
 ##  Tools & Technologies
-- **Python 3.x**
+- **Python**
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Machine Learning Models:** Logistic Regression, Random Forest, Decision Tree, K-Nearest Neighbors
 - **Environment:** Jupyter Notebook
